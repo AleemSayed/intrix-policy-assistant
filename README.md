@@ -29,7 +29,7 @@ Technology Stack
 * PyPDF
 
 Project Structure
-
+```
 Policy Assistant/
 ├── data/
 │   └── policies/
@@ -45,7 +45,7 @@ Policy Assistant/
 ├── README.md
 ├── AI_USAGE.md
 └── TEST_RESULTS.md
-
+```
 How It Works
 
 1. Document Ingestion: Policy PDFs are loaded and their text is extracted.
